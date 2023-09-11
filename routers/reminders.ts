@@ -17,4 +17,6 @@ router.post("/", (req, res) => {
   res.status(201).send(reminder);
 });
 
-export default router; //export the router object
+export default router; //export the router object...asd 
+
+
